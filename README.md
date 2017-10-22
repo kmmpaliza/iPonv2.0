@@ -1,4 +1,4 @@
-# iPonv2.0
+# iPon v2.0
 
 
 iPON is an application that wants to educate users to prioritize SAVING than SPENDING. 
