@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">iPON</string>
+
+    <string name="start">LET\'S START</string>
+
+    <!--LOG IN AND SIGN UP-->
+    <string name="sign_in">SIGN IN</string>
+    <string name="cap_login">LOG IN</string>
+    <string name="ucap_login"><u>LOG IN</u></string>
+    <string name="usign_up"><u>SIGN UP</u></string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="name">Full Name</string>
+    <string name="con_password">Confirm Password</string>
+    <string name="ask_login">Don\'t have an iPon account?</string>
+    <string name="create">Create account</string>
+    <string name="already_account">Already have an account?</string>
+
+    <!--CATEGORY, BREAKDOWN AND ALLOWANCE-->
+    <string name="budget_break">Budget Breakdown</string>
+    <string name="allowance">Allowance</string>
+    <string name="category_string">Category</string>
+
+    <string name="proceed">PROCEED</string>
+
+    <string-array name="Breakdown">
+        <item>Choose Breakdown:</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+
+    <string-array name="Category">
+        <item>Choose Category:</item>
+        <item>Student</item>
+        <item>Employee</item>
+        <item>Family (4 Members)</item>
+    </string-array>
+
+    <string-array name="ExpensesSavings">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+
+
+</resources>
